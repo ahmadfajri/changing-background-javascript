@@ -1,0 +1,20 @@
+#container {
+    background-color: rgb(138, 138, 138);
+    text-align: center;
+    padding-top: 25%;
+}
+#btn-change {
+    border: 1px solid white;
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+}
+
+#btn-change:hover{
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+}
